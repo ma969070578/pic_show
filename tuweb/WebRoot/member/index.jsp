@@ -88,9 +88,7 @@
 					<li theme="azure"><div>天蓝</div></li>
 				</ul>
 			</div>
-
 			<!-- navMenu -->
-			
 		</div>
 
 		<div id="leftside">
@@ -100,11 +98,11 @@
 				</div>
 			</div>
 			<div id="sidebar">
-				<div class="toggleCollapse"><h2>主菜单</h2><div>收缩</div></div>
+				<div class="toggleCollapse"><h2>功能管理</h2><div>收缩</div></div>
 
 				<div class="accordion" fillSpace="sidebar">
 					<div class="accordionHeader">
-						<h2><span>Folder</span>界面组件</h2>
+						<h2><span>Folder</span>前端页面管理</h2>
 					</div>
 					<div class="accordionContent">
 						<ul class="tree treeFolder">
@@ -176,7 +174,7 @@
 						</ul>
 					</div>
 					<div class="accordionHeader">
-						<h2><span>Folder</span>典型页面</h2>
+						<h2><span>Folder</span>后台数据管理</h2>
 					</div>
 					<div class="accordionContent">
 						<ul class="tree treeFolder treeCheck">
@@ -203,7 +201,7 @@
 						</ul>
 					</div>
 					<div class="accordionHeader">
-						<h2><span>Folder</span>流程演示</h2>
+						<h2><span>Folder</span>帮助文档</h2>
 					</div>
 					<div class="accordionContent">
 						<ul class="tree">
@@ -283,6 +281,6 @@ jQuery.DWZ-jUI-9群: 329597326 (其它群已满)
 
 	</div>
 
-	<div id="footer">Copyright &copy; 2010 <a href="demo_page2.html" target="dialog">DWZ团队</a> 京ICP备05019125号-10</div>
+	<div id="footer">2014<a href="demo_page2.html" target="dialog">CLC团队</a> 中国</div>
 </body>
 </html>
