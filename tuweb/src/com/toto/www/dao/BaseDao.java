@@ -18,6 +18,8 @@ import utils.Utils;
 @Repository("baseDao")
 public class BaseDao{
 	@Resource(name="hibernateTemplate")
+	
+//	111
 	private HibernateTemplate hibernateTemplate;
 	
 	public Object save(Object o){
